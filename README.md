@@ -4,7 +4,8 @@ Spotify Mood Analysis 🎧
 ## Introduction
 This project aims to analyze my own Spotify listening data to reveal my music habits and their relationship to my mood. Using the Spotify Web API, I will collect data about the tracks I listen to, their  genres. The ultimate goal is to understand how music affects my mood and.Additionally, I can also examine how the weather affects the types of music I listen to.
 
-
+## Update
+First, I was going to use the audio features API using the Spotify dashboard site. However, since this API is depricate, I assigned mood points according to genres instead of energy and tempo values.
 
 
 ## Dataset Description
